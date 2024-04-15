@@ -5,3 +5,12 @@
 .ms_bg_light_sea_green{
     background-color: #1abc9c;
 }
+
+.ms_bg_police_blue{
+    background-color: #3a546d;
+}
+
+.col{
+    height: 150px;
+    border: 5px solid red;
+}
