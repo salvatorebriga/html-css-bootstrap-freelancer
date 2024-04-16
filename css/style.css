@@ -6,6 +6,10 @@
     background-color: #1abc9c;
 }
 
+.ms_color_light_sea_green{
+    color: #1abc9c;
+}
+
 #ms_green{
     background-color: #1abc9c;
 }
@@ -33,4 +37,15 @@
 
 .rfs-hr{
     width: calc(4rem + 5vw);
+}
+
+.circle{
+    border-radius: 50%;
+    padding: 15px;
+    border: 2px solid #fff;
+    display: inline-block;
+}
+
+.circle > span{
+    width: 24px;
 }
